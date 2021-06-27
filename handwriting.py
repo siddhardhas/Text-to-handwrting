@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.text_to_handwriting(''' Hi "\n" Hello "\n" here is the text which is converted from text to handwriting and the thing is Any fool can write code that a computer can understand. Good programmers write code that humans can understand,''')
